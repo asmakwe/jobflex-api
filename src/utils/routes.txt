@@ -1,0 +1,7 @@
+postings - all postings
+flexerId/jobs -all my jobs
+flexerId/jobs/jobId - action on job
+
+employerId/postings - all employers postings
+postingId/jobs - all jobs for this posting
+postingId/jobs/jobId - action on job
